@@ -1,0 +1,6 @@
+export const carActionTypes = {
+  ADD_CAR: 'ADD_CAR',
+  REMOVE_CAR: 'REMOVE_CAR',
+  INPUT_CHANGE: 'INPUT_CHANGE',
+  RESET_VALUES: 'RESET_VALUES'
+}
