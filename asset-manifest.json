@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CarsApp/static/css/main.5b0f48c1.chunk.css",
+    "main.js": "/CarsApp/static/js/main.e17c2bdf.chunk.js",
+    "main.js.map": "/CarsApp/static/js/main.e17c2bdf.chunk.js.map",
+    "runtime-main.js": "/CarsApp/static/js/runtime-main.ad6ab0bc.js",
+    "runtime-main.js.map": "/CarsApp/static/js/runtime-main.ad6ab0bc.js.map",
+    "static/js/2.9bfb5acd.chunk.js": "/CarsApp/static/js/2.9bfb5acd.chunk.js",
+    "static/js/2.9bfb5acd.chunk.js.map": "/CarsApp/static/js/2.9bfb5acd.chunk.js.map",
+    "index.html": "/CarsApp/index.html",
+    "precache-manifest.c2c9076dde87ce38db8f8237beac3210.js": "/CarsApp/precache-manifest.c2c9076dde87ce38db8f8237beac3210.js",
+    "service-worker.js": "/CarsApp/service-worker.js",
+    "static/css/main.5b0f48c1.chunk.css.map": "/CarsApp/static/css/main.5b0f48c1.chunk.css.map",
+    "static/js/2.9bfb5acd.chunk.js.LICENSE.txt": "/CarsApp/static/js/2.9bfb5acd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad6ab0bc.js",
+    "static/js/2.9bfb5acd.chunk.js",
+    "static/css/main.5b0f48c1.chunk.css",
+    "static/js/main.e17c2bdf.chunk.js"
+  ]
+}
